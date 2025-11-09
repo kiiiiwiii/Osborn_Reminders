@@ -22,9 +22,8 @@ mac:
 
 ## 系统要求
 
-- Windows 7/8/10/11
 - 不需要安装 Python
 
 ## 碎碎念
 
-test.py为源代码，欢迎大家加入更多的feature！
+test.py为源代码，欢迎各位夫人加入更多的feature！
